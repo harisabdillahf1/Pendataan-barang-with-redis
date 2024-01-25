@@ -1,0 +1,24 @@
+[
+  {
+    "compressor": "NONE",
+    "id": "c1bee065-7445-4b9f-a095-8df2939b23e3",
+    "host": "127.0.0.1",
+    "port": 6379,
+    "name": "127.0.0.1:6379",
+    "db": null,
+    "username": null,
+    "connectionType": "STANDALONE",
+    "nameFromProvider": null,
+    "provider": "LOCALHOST",
+    "lastConnection": "2024-01-25T02:26:13.617Z",
+    "nodes": [],
+    "modules": [],
+    "tls": null,
+    "tlsServername": null,
+    "verifyServerCert": null,
+    "caCert": null,
+    "clientCert": null,
+    "ssh": null,
+    "sshOptions": null
+  }
+]
